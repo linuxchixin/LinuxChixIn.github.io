@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arima Madurai', serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 400px;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
