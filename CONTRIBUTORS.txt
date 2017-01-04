@@ -2,6 +2,7 @@ Code Contributors
 =================
 
  - Sanyam Khurana (gh: CuriousLearner / @ErSanyamKhurana)*
+ - Shyam Saini (gh: mysticTot)
 
 * Possesses commit rights
 
