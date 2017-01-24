@@ -1,10 +1,14 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
 body {
   font-family: 'Arima Madurai', serif;
   text-align: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 400px;
+  background-color: #EEEEEE;
 }
 
 p {
@@ -15,26 +19,41 @@ h1 {
   font-size: 48px;
 }
 
-a {
-  text-decoration: none;
-  transition: all 0.3s ease;
-  border-bottom: 1px solid transparent;
-  color: #376fa0;
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-a:hover, a:active {
-	border-bottom: 1px solid;
+.faq-items {
+  padding-bottom: 50px;
 }
 
-.social-links ul {
+.faq-question {
+  display: flex;
+  flex-direction: column;
 }
 
-.social-links li {
-	text-align: left;
+.faq-answer {
+  text-align: left;
 }
 
-#listtop > li {
-	text-align: left;
-	margin-left: 30%;
-	margin-right: 50%;
+.content {
+  background-color: #384452;
+  color: #fff;
+}
+
+.logo-cover {
+  width: 30%;
+  padding-bottom: 20px;
+}
+
+footer {
+  background-color: #384452;
+  color: #fff;
+  overflow-x: auto;
+  margin-bottom: -20px;
+  padding: 20px 0 20px 0;
 }
