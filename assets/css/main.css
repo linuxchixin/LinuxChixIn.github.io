@@ -26,6 +26,7 @@ h1 {
   background: -moz-radial-gradient(#915f6d66, #915f6d); /* For Firefox 3.6 to 15 */
   background: radial-gradient(#915f6d66, #915f6d); /* Standard syntax */
   color: #fff;
+  margin-bottom: -1px;
 }
 
 .row {
@@ -52,6 +53,10 @@ h1 {
 .content {
   background-color: #384452;
   color: #fff;
+}
+
+.justify-text{
+  text-align: justify;
 }
 
 .logo-cover {
