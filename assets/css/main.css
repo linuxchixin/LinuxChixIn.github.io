@@ -72,12 +72,12 @@ footer {
   padding: 20px 0 20px 0;
 }
 
-.SocialIcons {
+.social-icons {
   display: inline-flex;
   justify-content: center;
 }
 
-.SocialIcons a {
+.social-icons a {
   width: 30px;
 }
 
@@ -94,4 +94,13 @@ footer {
 #motto {
   font-size: 50px;
   color: #F5C8D5;
+}
+
+.row.content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-brand {
+  color: #FFFFFF;
 }
