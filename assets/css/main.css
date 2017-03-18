@@ -19,7 +19,7 @@ h1 {
   font-size: 48px;
 }
 
-.jumbotron{
+.jumbotron {
   background: #ff407ce6; /* For browsers that do not support gradients */
   background: -webkit-radial-gradient(#915f6d66, #915f6d); /* Safari 5.1 to 6.0 */
   background: -o-radial-gradient(#915f6d66, #915f6d); /* For Opera 11.6 to 12.0 */
@@ -55,7 +55,7 @@ h1 {
   color: #fff;
 }
 
-.justify-text{
+.justify-text {
   text-align: justify;
 }
 
@@ -72,21 +72,26 @@ footer {
   padding: 20px 0 20px 0;
 }
 
-.SocialIcons{
+.SocialIcons {
   display: inline-flex;
   justify-content: center;
 }
 
-.SocialIcons a{
+.SocialIcons a {
   width:30px;
 }
 
-.glyphicon, .fa{
+.glyphicon, .fa {
   font-size: 25px!important;
   margin: 5px;
   color:#F5C8D5;
 }
 
-.glyphicon:hover, .fa:hover{
+.glyphicon:hover, .fa:hover {
   color: #fff;
+}
+
+#motto {
+  font-size:50px;
+  color:#F5C8D5;
 }
