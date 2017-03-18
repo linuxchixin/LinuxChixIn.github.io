@@ -78,13 +78,13 @@ footer {
 }
 
 .SocialIcons a {
-  width:30px;
+  width: 30px;
 }
 
 .glyphicon, .fa {
   font-size: 25px!important;
   margin: 5px;
-  color:#F5C8D5;
+  color: #F5C8D5;
 }
 
 .glyphicon:hover, .fa:hover {
@@ -92,6 +92,6 @@ footer {
 }
 
 #motto {
-  font-size:50px;
-  color:#F5C8D5;
+  font-size: 50px;
+  color: #F5C8D5;
 }
