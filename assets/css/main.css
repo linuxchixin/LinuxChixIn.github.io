@@ -19,6 +19,15 @@ h1 {
   font-size: 48px;
 }
 
+.jumbotron{
+  background: #ff407ce6; /* For browsers that do not support gradients */
+  background: -webkit-radial-gradient(#915f6d66, #915f6d); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(#915f6d66, #915f6d); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(#915f6d66, #915f6d); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(#915f6d66, #915f6d); /* Standard syntax */
+  color: #fff;
+}
+
 .row {
   display: -webkit-box;
   display: -webkit-flex;
@@ -56,4 +65,23 @@ footer {
   overflow-x: auto;
   margin-bottom: -20px;
   padding: 20px 0 20px 0;
+}
+
+.SocialIcons{
+  display: inline-flex;
+  justify-content: center;
+}
+
+.SocialIcons a{
+  width:30px;
+}
+
+.glyphicon, .fa{
+  font-size: 25px!important;
+  margin: 5px;
+  color:#F5C8D5;
+}
+
+.glyphicon:hover, .fa:hover{
+  color: #fff;
 }
