@@ -3,9 +3,15 @@ Code Contributors
 
  - Sanyam Khurana (gh: CuriousLearner / @ErSanyamKhurana)*
  - Shyam Saini (gh: mysticTot)
-* Possesses commit rights
+ - Shashank Kumar (gh: realslimshanky)
+ - Tanya Jain (gh: Tanya-Jain)
 
 Special Thanks
 ==============
 
 The following haven't provided code directly, but have provided guidance and advice.
+
+ - Shivani Bhardwaj (gh: shivan1b)*
+ - Kanika Murarka (gh: a2batic) -- for working on graphics
+
+* Possesses commit rights
