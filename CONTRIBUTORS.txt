@@ -5,6 +5,8 @@ Code Contributors
  - Shyam Saini (gh: mysticTot)
  - Shashank Kumar (gh: realslimshanky)
  - Tanya Jain (gh: Tanya-Jain)
+ - Saurabh Kumar (gh: theskumar)
+ - Theodoros Ploumis (gh: theodorosploumis)
 
 Special Thanks
 ==============
@@ -15,3 +17,4 @@ The following haven't provided code directly, but have provided guidance and adv
  - Kanika Murarka (gh: a2batic) -- for working on graphics
 
 * Possesses commit rights
+
