@@ -7,7 +7,8 @@ Code Contributors
  - Tanya Jain (gh: Tanya-Jain)
  - Saurabh Kumar (gh: theskumar)
  - Theodoros Ploumis (gh: theodorosploumis)
-
+ - Tushar Malik (gh: Tusharmalik)
+ 
 Special Thanks
 ==============
 
