@@ -99,8 +99,16 @@ footer {
 .row.content {
   padding-left: 15px;
   padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .navbar-brand {
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 480px) {
+   .container img { width: 50%;}
+   .container p {font-size: 100%;}
+} 
+
