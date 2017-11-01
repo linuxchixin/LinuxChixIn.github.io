@@ -1,4 +1,4 @@
-# LinuxChixIndia.github.io
+# linuxchixin.github.io
 Source code for official website of LinuxChix India.
 
 Contributing
