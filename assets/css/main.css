@@ -111,4 +111,23 @@ footer {
    .container img { width: 50%;}
    .container p {font-size: 100%;}
 } 
+ /* Add a black background color to the top navigation */
+ .topnav {
+  overflow: hidden;
+}
 
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  display: block;
+  color: rgb(174, 159, 163);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: #FFFFFF;
+}
