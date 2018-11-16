@@ -107,6 +107,21 @@ footer {
   color: #FFFFFF;
 }
 
+/* ---------------Not our accounts message---------------- */
+
+.spam-alert{
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.remove-margin{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+/* ----------------End of not our accounts message------------*/
+
 @media screen and (max-width: 480px) {
    .container img { width: 50%;}
    .container p {font-size: 100%;}
